@@ -4,6 +4,14 @@
 
 "Atrapa los Rectángulos" es un juego simple desarrollado en Python utilizando la biblioteca Pygame. En este juego, el jugador controla un recipiente que se mueve de izquierda a derecha para atrapar rectángulos que caen desde la parte superior de la pantalla, mientras evita "enemigos" que también caen. El objetivo es acumular la mayor cantidad de puntos posible atrapando los rectángulos y evitando a los enemigos.
 
+## Instalación de requisitos
+`
+pip install pygame tkinter
+`
+
+## Ejecutar
+python main.py
+
 ## Características
 
 - **Controles**: Mueve el recipiente con las teclas de flecha izquierda y derecha.
