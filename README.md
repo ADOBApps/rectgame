@@ -10,7 +10,9 @@ pip install pygame tkinter
 `
 
 ## Ejecutar
+`
 python main.py
+`
 
 ## Características
 
